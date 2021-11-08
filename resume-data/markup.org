@@ -1,0 +1,1257 @@
+#+TITLE: Resume Data
+
+* Notes
++ Can use ~(pop list)~ to work with lisp lists
+  Can use ~(org-list-to-lisp)~ to convert org-mode list to lisp list.
++ Can use ~(org-list-to-latex (org-list-to-lisp))~ to convert org-mode list to
+  latex items.
+* Resume (print)
+** Education
+2016 ‑ 2020 B.S., Networked and Social Systems Engineering , The Evergreen State College
+Olympia, WA
+2016 ‑ 2020 B.A., Liberal Arts , The Evergreen State College
+Olympia, WA
+2012 ‑ 2014 A.A. , Green River College
+Auburn, WA
+** Courses and Skills
+Green River Coursework
+Business Fundamentals
+BUSiNESS 101, BUSiNESS LAW, HUMAN RELATiONS, INTERPERSONAL COMMUNiCATiON, ECONOMiCS, NEUROPSYCHOLOGY
+2012‑2014
+Engaged in team‑building exercises and presentations emphasizing active listening, game theory, and ethical business management.
+Language and Power
+Critical Thinking
+CLASSiCS, PHiLOSOPHY, SOCiOLiNGUiSTiCS, CULTURAL ANTHROPOLOGY, ACADEMiC EDiTiNG, TECHNOLOGY AND SOCiETY
+Spring 2016
+Solidified critical approaches to analyzing people and ideas in a variety of fields.
+Computer Science Foundations
+Computer Engineering
+DiGiTAL LOGiC, COMPUTER ARCHiTECTURE, JAVA, JVM ASSEMBLY, DiSCRETE MATH, DATA STRUCTURES
+2016‑2017
+Learned fundamentals of problem solving and building up to complex systems using logic and object‑oriented programming.
+Computing Practice and Theory: Consumer Behavior
+Data Science Foundations
+STATiSTiCS, PYTHON, R, DATA MiNiNG, CONSUMER BEHAViOR, ETHiCAL DATA MANAGEMENT, SYSTEMS THiNKiNG
+Spring 2017
+Learned how to collect, clean, and explore data for machine learning workflows. Evaluated positive/negative impact of Big Data in seminar.
+Data and Information: Computational Linguistics
+Natural Language Processing
+LiNGUiSTiC ANALYSiS, NATURAL LANGUAGE PROCESSiNG, NLTK (PYTHON), ARTiFiCiAL INTELLiGENCE
+Fall 2018
+Strengthened use of synthesis and linguistic analysis within the context of programming and studying the recent impacts of artificial intelligence.
+Student‑Originated Software
+Interdisciplinary Network Science
+COMPUTER NETWORKiNG, SOCiAL NETWORK ANALYSiS, SYSTEMS THEORY, GRAPH DATA STRUCTURES/ALGORiTHMS/DATABASES
+2018‑2020
+Demonstrated ethics of computational kindness (reducing cognitive load on ourselves/others through efficient decision‑making algorithms). For
+my capstone, I identified key campus partnerships between faculty, staff, and students through interviews and use of causal loop diagrams.
+** Experience
+Teaching Assistant
+Olympia. Washington
+THE EVERGREEN STATE COLLEGE
+Apr. 2019 ‑ Jun. 2019
+• Assisted with introductory Python module within the Evergreen program ”Modeling Biological Systems.”
+• Graded python homework assignments; provided feedback to 50 students. Produced reports on missed homework problems, FAQs.
+• Provided extended tutoring during labs and outside of class for interested students.
+CRM Database Fellow
+Olympia. Washington
+THE EVERGREEN STATE COLLEGE FOUNDATiON
+Sep. 2017 ‑ Jun. 2019
+• Shadowed Associate Director of Advancement Services, who led the implementation of Raiser’s Edge for the Evergreen Foundation.
+• Managed and executed complex SQL queries for recurring report and dashboard construction.
+• Took on responsibility for major data management projects, including consultation with other departments.
+Office Manager
+Olympia. Washington
+EVERGREEN SERViCES AND ACTiViTiES FEE ALLOCATiON BOARD
+Sep. 2017 ‑ Sep. 2018
+• Prepared budget request packets for the Board. This includes the budget in Excel, supplementary materials in Word.
+• Formed communication strategies, Board member development, and planned for larger budget reviews with Board leadership.
+• Reduced budget review workload from 10 hours/week to <1 by digitizing the budget submission process and adding data validation.
+Web Application Engineering Intern
+Olympia. Washington
+THE EVERGREEN STATE COLLEGE
+Jun. 2017 ‑ Sep. 2017
+• Worked with a development shop to rewrite a student elections application using PHP (Symfony, Drupal) and SQL (Oracle).
+• Learned database design and engineering, object relational mapping, test‑driven development, UI/UX, and git.
+• Project followed Agile methodologies including SCRUM, weekly development meetings, sprint planning sessions and pair programming.
+Archivist Kent, Washington
+LAW OFFiCES OF R. REAMS GOODLOE, P.S. Jul. 2012 ‑ Mar. 2016
+• Tasked with digitally organizing, normalizing, and archiving thousands of patent case files for an intellectual property firm.
+• Familiarized myself with the watermarking and text recognition features of the copier and pdf reader.
+• Responsibilities increased after successfully diagnosing copier issues which the firm would normally approach IT specialists to help solve.
+** Projects
+Integrated “Personal Development” Environment
+Software Application
+AUTHOR (GiTHUB: BRANJAM4/BRANOS‑PROViSiONiNG.GiT)
+Apr. 2018 ‑ Present
+• Containerized personal knowledge capture system within Docker; with an alternate version of the system virtualized within a qemu image.
+• Decreased cognitive switching by 50‑100% for tasks such as locating documentation, test‑driven development, and keeping code notebooks.
+Innovation Across the Americas 2019‑ Team Glowcal
+Barrio del Alto, Puebla, Mexico
+MARKETiNG LEADER
+Jun. 2019 ‑ Jul. 2019
+• Formed Glowcal with an international team to evaluate re‑use of plastic bottles as a low cost light source for residents of El Alto.
+• ”Team of teams” organizational ecology facilitated ”jugaad innovation” (creative solutions on a budget) focused on empathizing with locals.
+• Partnered with the Communications Leader to create copy and generate buzz for our MVP (https://instagram.com/glowcals).
+Joint Leadership Group Establishment
+Evergreen
+SYSTEMS THiNKiNG ADVOCATE
+Sep. 2017 ‑ Jun. 2019
+• Brought together faculty, student, and administrative leadership to determine shared goals, governance, and views of systems thinking.
+• Reduced communications delay among student, faculty, and staff leadership from once or twice per year to once or twice per quarter.
+• Assisted in creation of a quarterly student caucus to identify and create opportunities for faculty and staff support.
+Student Activities Data Normalization
+Evergreen
+DATA CONSULTANT
+Jan. 2018 ‑ Sep. 2018
+• Consulted with Student Activities to improve their data management and governance.
+• Led requirements gathering sessions to determine how information flows from forms to database.
+• Made recommendations which led to new web form designs, normalizing data from hundreds of student leaders several times per quarter.
+Financial Insecurity Perceptual Improvement
+Western Washington
+DATA AGGREGATOR
+Apr. 2017 ‑ Jun. 2017
+• Led a team collecting social data, building a semi‑automated sentiment analysis algorithm within Python and R in collaboration with a nonprofit.
+• Used insights to help our client improve community outreach efforts and enhance collaborations with other organizations.
+• Initiative and detailed requirements gathering led to increased understanding of the technical goals of the project.
+** Extracurricular Activity
+Geoduck Student Union
+Olympia, WA
+• SPEAKER
+• DEPUTY SPEAKER
+• TREASURER
+Sep. 2016 ‑ Oct. 2018
+Improving both internal and external communication was top priority in keeping GSU accountable to its vision and mission.
+Increased accessibility, streamlined agenda setting through integrating Slack and digital archiving with operations.
+Efforts created a multiplier effect: representatives found more ways to expand the capacity of the organization with their own projects.
+External stakeholders recognized GSU as an active ally with respect to their own strategic initiatives during my tenure.
+Evergreen Board of Trustees
+Olympia, WA
+STUDENT REPRESENTATiVE TO THE BOARD
+Sep. 2017 ‑ Oct. 2018
+• Served in an advisory position on the Board, appointed by peers in student government.
+• Shared updates on student groups, the work of student government, and asked for engagement from the Board.
+• Actions resulted in the first joint meeting between the Board and the Student Union in the College’s history.
+The Evergreen State College
+PRESiDENTiAL EQUiTY ADViSOR
+Olympia, WA
+Jun. 2017 ‑ Sep. 2017
+• Improved policies and language within the Student Code of Conduct to favor restorative justice over punitive justice.
+• Collaborated with students, faculty, and staff to finalize plans for an Equity Center on campus.
+• Presented recommendations on improving campus culture and climate through systems thinking.
+** Awards
+Jun. 2019 Recipient , Innovation Across the Americas Award Olympia, WA
+Jun. 2017 Recipient , Computer Engineering Intern Opportunity Scholarship Olympia, WA
+Oct. 2018 Nominee , Equity Honors Award Ceremony Evergreen
+* Resume (tables)
+#+LATEX_CLASS: twentysecondcv
+
+#+begin_export latex
+\aboutme{
+How often have you sought common ground with a friend, colleague, or group in a conversation, only to discover they were really only interested in advancing one point-of-view? Inspiring change in this situation can be exhausting! In both my personal and professional journey I've been fortunate enough to lend both ears and a shoulder to the unheard and underserved people around me, which led to creative opportunities to solve otherwise complex organizational issues. I'm seeking to unite my skills--synthesis, software development, and active listening--with my passion: working towards fairness, justice, and equal opportunities for everyone.}
+#+end_export
+
+#+CALL: makeskillbar()
+
+#+CALL: makeskillstext()
+
+#+LATEX_HEADER: \makeprofile
+** Outlining data structures
+:PROPERTIES:
+:VISIBILITY: all
+:END:
+The twentysecondscv template contains four types of custom information:
+  - twentyitem :: a table-like custom entry item, with:
+    + date :: Not a strict category, can have ranges of dates or just one.
+    + title :: Name of [job position | degree focus]
+    + location :: Place where [job | degree] obtained
+    + description :: Expand on the meaning of ~title~
+  - twentyitemshort :: a shorter version of ~twentyitem~, with only:
+    + date
+    + title
+  - skills/skillstext :: two sections within the sidebar:
+    + skills :: skill bars from 0-6; has more visual than textual appeal
+    + skillstext :: additional skills, with text only, but still only 0-6
+  - other :: catchall term for personal information, each of which gets its own custom field.
+
+Other than those, there are two sections that simply have their =\section{name}= followed by plain text, which require virtually no fancy work to convert into the appropriate latex equivalent.
+** First: Collect data
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
+There are nine categories within the example file, seven of which I've "org-modified" for a somewhat more intuitive data entry process.
+*** Contact
+#+NAME: contact-table
+| Property      | Value                   |
+|---------------+-------------------------|
+| profilepic    | ../resources/my-pic.jpg |
+| cvname        | Brandon Ellington       |
+| cvjobtitle    | Developer               |
+| cvdate        | June 25 1993            |
+| cvaddress     | United States           |
+| cvnumberphone | (206)450-1343           |
+| cvmail        | branjam4@gmail.com      |
+| cvsite        | noneyet.com|
+
+The catchall =custom= category. Each of these has a =\property{value}= representation in the latex file.
+*** Education
+#+BEGIN: propview :cols (DATE ITEM LOCATION DESCRIPTION)
+#+NAME: education-table
+| DATE        | ITEM                  | LOCATION                      | DESCRIPTION                    |
+|-------------+-----------------------+-------------------------------+--------------------------------|
+| 0           | "Education"           | 0                             | 0                              |
+| "2017-2020" | "Bachelor of Science" | "The Evergreen State College" | "Majoring in Computer Science" |
+| "2017-2020" | "Bachelor of Arts"    | "The Evergreen State College" | "Business Concentration"       |
+|-------------+-----------------------+-------------------------------+--------------------------------|
+|             |                       |                               |                                |
+#+END:
+**** Bachelor of Science
+:PROPERTIES:
+:DATE: 2017-2020
+:LOCATION: The Evergreen State College
+:DESCRIPTION: Majoring in Computer Science
+:END:
+**** Bachelor of Arts
+:PROPERTIES:
+:DATE: 2017-2020
+:LOCATION: The Evergreen State College
+:DESCRIPTION: Business Concentration
+:END:
+*** Awards, Activities, and Achievements
+#+BEGIN: propview :cols (DATE ITEM)
+#+NAME: awards-table
+| DATE            | ITEM                                                         |
+|-----------------+--------------------------------------------------------------|
+| 0               | "Awards, Activities, and Achievements"                       |
+| "June 2019"     | "Innovation Across the Americas Award Recipient"             |
+| "October 2018"  | "Equity Honors Nominee"                                      |
+| "February 2018" | "Featured Speaker, DRIVE Conference 2018"                    |
+| 2018            | "Committee Member, Evergreen Culture and Climate Assessment" |
+| "2017-2018"     | "Student Representative to the Evergreen Board of Trustees"  |
+| "October 2017"  | "Speaker, Return to Evergreen Governor's Mansion Event"      |
+| "June 2017"     | "Presidential Equity Advisor"                                |
+| "2017-2018"     | "Leader of the Geoduck Student Union"                        |
+|-----------------+--------------------------------------------------------------|
+|                 |                                                              |
+#+END:
+**** Innovation Across the Americas Award Recipient
+:PROPERTIES:
+:DATE: June 2019
+:END:
+**** Equity Honors Nominee
+:PROPERTIES:
+:DATE: October 2018
+:END:
+**** Featured Speaker, DRIVE Conference 2018
+:PROPERTIES:
+:DATE: February 2018
+:END:
+**** Committee Member, Evergreen Culture and Climate Assessment
+:PROPERTIES:
+:DATE: 2018
+:END:
+**** Student Representative to the Evergreen Board of Trustees
+:PROPERTIES:
+:DATE: 2017-2018
+:END:
+**** Speaker, Return to Evergreen Governor's Mansion Event
+:PROPERTIES:
+:DATE: October 2017
+:END:
+**** Presidential Equity Advisor
+:PROPERTIES:
+:DATE: June 2017
+:END:
+**** Leader of the Geoduck Student Union
+:PROPERTIES:
+:DATE: 2017-2018
+:END:
+*** Experience
+:PROPERTIES:
+:TABLE_EXPORT_FILE: experience-table.csv
+:TABLE_EXPORT_FORMAT: orgtbl-to-csv
+:END:
+#+BEGIN: propview :cols (DATE ITEM LOCATION DESCRIPTION)
+#+NAME: experience-table
+| DATE                         | ITEM                             | LOCATION                                                    | DESCRIPTION                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|------------------------------+----------------------------------+-------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0                            | "Experience"                     | 0                                                           | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| "2018-2019"                  | "CRM Lynda.com Fellowship"       | "The Evergreen State College, Advancement"                  | "Shadowed the Assistant Director of Advancement Services. Learned how to use the Blackbaud Raiser's Edge Constituent Relationship Management System. Assisted with data management and building complex database query views through SQL and Excel. Served during campaign events."                                                                                                                                                                                                                         |
+| "September 2017 - June 2018" | "Office Manager"                 | "Services and Activities Fee Allocation Board"              | "Reduced budget intake, processing from 5 hours/week to <1 hour by moving from paper budgets to Google Drive, Sheets. Trained 12 board members on the function and operations of the Board."                                                                                                                                                                                                                                                                                                                |
+| "June 2017"                  | "Enterprise Software Internship" | "The Evergreen State College, Computing and Communications" | "Evaluation from my field supervisor, the Senior Systems Analyst/Programmer: \"Brandon's communication skills were particularly valuable to the team. He facilitated requirements gathering sessions with the users in my absence...He was always willing to adjust coding styles and practices to the team approach. He was the only intern I've ever trusted to lead sprint planning sessions, because he had developed the appropriate soft skills, and because he seemed to grasp the Agile process.\"" |
+|------------------------------+----------------------------------+-------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                              |                                  |                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+#+END:
+**** CRM Lynda.com Fellowship
+:PROPERTIES:
+:DATE: 2018-2019
+:LOCATION: The Evergreen State College, Advancement
+:DESCRIPTION: Shadowed the Assistant Director of Advancement Services. Learned how to use the Blackbaud Raiser's Edge Constituent Relationship Management System. Assisted with data management and building complex database query views through SQL and Excel. Served during campaign events.
+:END:
+**** Office Manager
+:PROPERTIES:
+:DATE: September 2017 - June 2018
+:LOCATION: Services and Activities Fee Allocation Board
+:DESCRIPTION: Reduced budget intake, processing from 5 hours/week to <1 hour by moving from paper budgets to Google Drive, Sheets. Trained 12 board members on the function and operations of the Board.
+:END:
+**** Enterprise Software Internship
+:PROPERTIES:
+:DATE: June 2017
+:LOCATION: The Evergreen State College, Computing and Communications
+:DESCRIPTION: Evaluation from my field supervisor, the Senior Systems Analyst/Programmer: "Brandon's communication skills were particularly valuable to the team. He facilitated requirements gathering sessions with the users in my absence...He was always willing to adjust coding styles and practices to the team approach. He was the only intern I've ever trusted to lead sprint planning sessions, because he had developed the appropriate soft skills, and because he seemed to grasp the Agile process."
+:END:
+*** Projects
+#+BEGIN: propview :cols (DATE ITEM LOCATION DESCRIPTION)
+#+NAME: projects-table
+| DATE            | ITEM                                               | LOCATION                                            | DESCRIPTION                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|-----------------+----------------------------------------------------+-----------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0               | "Projects"                                         | 0                                                   | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| "June 2020"     | "Containerized Integrated Development Environment" | "https://github.com/branjam4/doom-emacs-docker.git" | "I wanted to show some of the productivity gains and programs I had leveraged while learning how to use my development environment. But even though my professor and I both had experience in this development environment, we found it challenging to share programs and configuration strategies given limited time and competing priorities. So I learned to containerize my development environment. Now anyone with Docker can try out my workflows with a couple programs (git, docker) in less than five commands, where previously it could take dozens of programs and commands."                                                                                                                                                                                                                                              |
+| "2019-2020"     | "Systems Thinking Modelling Efforts"               | "Evergreen: Self-study"                             | "Evaluation from faculty: \"[Brandon] demonstrated significant expertise in understanding group and team dynamics. He had attended a meeting with the Team Entrepreneurship program and was able to translate their methodology into a systems approach. His work represents a synthesis of basic concepts from graph theory, communication, and systems theory. The origin of the work had several roots: 1. Brandon’s active participation in student governance, 2. Brandon’s interest in the application of systems theory to social systems, and 3. Brandon’s desire to improve communication and information flow in the Evergreen community.\""                                                                                                                                                                                  |
+| "December 2018" | "Authorship- Computational Linguistics Project"    | "Evergreen Program: Computational Linguistics"      | "Evaluation from faculty: \"Brandon worked with four other students to complete the project on computationally identifying the author of a text. Their well-coordinated final presentation provided an organized overview of their process and a discussion of both obstacles and successes. Brandon provided leadership and empowerment to newer coders by guiding the group towards a process that emphasized an algorithm and descriptive understandings of what the code needed to accomplished, as well as developing the actual code and some of the details of testing strategies. The group embodied a learning community by making a commitment to make sure that everyone understood the algorithm and the code. Brandon also demonstrated their collaborative learning skills by helping two other groups on the project.\"" |
+| "June 2017"     | "Sentiment Analysis- Data Mining Project"          | "United Way of Pierce County"                       | "Worked with a team of five to leverage sentiment analysis algorithms, collecting data in the form of tweets and posts from Facebook, to quantify how receptive Pierce County residents were to United Way's reports on understanding and assisting Pierce County's ALICE (Asset Limited, Income Constrained, Employed) population. I also went a little further and familiarized myself with the methodology and data used to identify our target demographics, which helped my team put our observations into perspective. My group recognized me as the member who went the extra mile in order to connect with our client and fill their needs."                                                                                                                                                                                    |
+|-----------------+----------------------------------------------------+-----------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                 |                                                    |                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+#+END:
+
+**** Containerized Integrated Development Environment
+:PROPERTIES:
+:DATE: June 2020
+:LOCATION: https://github.com/branjam4/doom-emacs-docker.git
+:DESCRIPTION: I wanted to show some of the productivity gains and programs I had leveraged while learning how to use my development environment. But even though my professor and I both had experience in this development environment, we found it challenging to share programs and configuration strategies given limited time and competing priorities. So I learned to containerize my development environment. Now anyone with Docker can try out my workflows with a couple programs (git, docker) in less than five commands, where previously it could take dozens of programs and commands.
+:END:
+**** Systems Thinking Modelling Efforts
+:PROPERTIES:
+:DATE: 2019-2020
+:LOCATION: Evergreen: Self-study
+:DESCRIPTION: Evaluation from faculty: "[Brandon] demonstrated significant expertise in understanding group and team dynamics. He had attended a meeting with the Team Entrepreneurship program and was able to translate their methodology into a systems approach. His work represents a synthesis of basic concepts from graph theory, communication, and systems theory. The origin of the work had several roots: 1. Brandon’s active participation in student governance, 2. Brandon’s interest in the application of systems theory to social systems, and 3. Brandon’s desire to improve communication and information flow in the Evergreen community."
+:END:
+**** Authorship- Computational Linguistics Project
+:PROPERTIES:
+:DATE: December 2018
+:LOCATION: Evergreen Program: Computational Linguistics
+:DESCRIPTION: Evaluation from faculty: "Brandon worked with four other students to complete the project on computationally identifying the author of a text. Their well-coordinated final presentation provided an organized overview of their process and a discussion of both obstacles and successes. Brandon provided leadership and empowerment to newer coders by guiding the group towards a process that emphasized an algorithm and descriptive understandings of what the code needed to accomplished, as well as developing the actual code and some of the details of testing strategies. The group embodied a learning community by making a commitment to make sure that everyone understood the algorithm and the code. Brandon also demonstrated their collaborative learning skills by helping two other groups on the project."
+:END:
+**** Sentiment Analysis- Data Mining Project
+:PROPERTIES:
+:DATE: June 2017
+:LOCATION: United Way of Pierce County
+:DESCRIPTION: Worked with a team of five to leverage sentiment analysis algorithms, collecting data in the form of tweets and posts from Facebook, to quantify how receptive Pierce County residents were to United Way's reports on understanding and assisting Pierce County's ALICE (Asset Limited, Income Constrained, Employed) population. I also went a little further and familiarized myself with the methodology and data used to identify our target demographics, which helped my team put our observations into perspective. My group recognized me as the member who went the extra mile in order to connect with our client and fill their needs.
+:END:
+*** Skills
+#+BEGIN: propview :cols (ITEM VALUE)
+#+NAME: skills-table
+| ITEM                          | VALUE |
+|-------------------------------+-------|
+| "Skills"                      |     0 |
+| "Python"                      |     4 |
+| "Functional Programming"      |   4.4 |
+| "Object-Oriented Programming" |     4 |
+| "Database Management"         |   3.8 |
+| "DevOps"                      |     3 |
+|-------------------------------+-------|
+|                               |       |
+#+END:
+
+In this subtree there is an example of a [[file:20200901214515-dynamic_blocks.org][Dynamic Block]] keeping track of subtree values.
+**** Python
+:PROPERTIES:
+:Value: 4
+:END:
+**** Functional Programming
+:PROPERTIES:
+:Value: 4.4
+:END:
+**** Object-Oriented Programming
+:PROPERTIES:
+:Value: 4
+:END:
+**** Database Management
+:PROPERTIES:
+:Value: 3.8
+:END:
+**** DevOps
+:PROPERTIES:
+:Value: 3
+:END:
+*** Skills text
+#+BEGIN: propview :cols (ITEM VALUE)
+#+NAME: skillstext-table
+| ITEM          | VALUE |
+|---------------+-------|
+| "Skills text" |     0 |
+| "SQL"         |     3 |
+| "emacs"       |     3 |
+| "org-mode"    |     3 |
+| "shell"       |   2.8 |
+| "scheme"      |   2.5 |
+| "C(++)"       |   2.5 |
+| "clojure"     |   2.1 |
+| "php"         |     2 |
+| "java"        |   1.3 |
+|---------------+-------|
+|               |       |
+#+END:
+
+**** SQL
+:PROPERTIES:
+:Value: 3
+:END:
+**** emacs
+:PROPERTIES:
+:Value: 3
+:END:
+**** org-mode
+:PROPERTIES:
+:Value: 3
+:END:
+**** shell
+:PROPERTIES:
+:Value: 2.8
+:END:
+**** scheme
+:PROPERTIES:
+:Value: 2.5
+:END:
+**** C(++)
+:PROPERTIES:
+:Value: 2.5
+:END:
+**** clojure
+:PROPERTIES:
+:Value: 2.1
+:END:
+**** php
+:PROPERTIES:
+:Value: 2
+:END:
+**** java
+:PROPERTIES:
+:Value: 1.3
+:END:
+** Second: Transform data
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
+General notes:
+The ~propview~ dynamic tables need the [[doom:.local/straight/repos/org-mode/contrib/lisp/org-collector.el][org-collector]] file explicitly loaded in doom (with the ~eval-buffer~ function, or lazily with ~use-package~).
+The ~propview~ tables require ~#+NAME:~ /below/ the ~#+BEGIN:~ header for code blocks to access their contents. These lead to =error= messages in the minibuffer but in practice are harmless. In theory I could get rid of these errors by defining a custom ~propview~ dynamic org block that inserts the table name during execution.
+We'll need to run any blocks that say "~defun~" to enable other code blocks to use that code. Thought ~:prologue~ would work but it seems the focus there is on predefined setup/cleanup vs. "run this code block before this one"
+Take note of
++ how I skip lines: the ~:skip 2~ part of the ~orgtbl-to-<structure>~ function call
++ how I omit the last line: the ~:llfmt ""~ part of the ~org-combine-plists~ or ~orgtbl-to-<structure>~ function calls
+The ~propview~ tables have some extraneous information, namely the heading name's inclusion within the dynamic table, then a blank last line. Thankfully org-mode contributors recognize this common situation (among others involving a special need for customizing the format of the last line specifically), having a way to define an alternate format within ~org-combine-plists~.
+*** twentyitem/twentyitemshort
+These use:
++ ~orgtbl-to-generic~ :: to break the org table down,
++ ~org-combine-plists~ :: to construct a proper =\begin...end{twenty}= container, separating items by new lines.
+#+NAME: ticonv
+#+BEGIN_SRC elisp :exports none
+(defun orgtbl-to-twentyitem (table params)
+       "Convert the orgtbl-mode TABLE to a TwentySeconds CV {twentyitem} table."
+       (orgtbl-to-generic
+        table
+        (org-combine-plists
+         '(:tstart "\\begin{twenty}" :tend "\\end{twenty}" :lstart "  \\twentyitem\n" :lend "" :fmt "    {%s}" :llfmt "" :sep "\n")
+         params)))
+
+(defun orgtbl-to-twentyitemshort (table params)
+       "Convert the orgtbl-mode TABLE to a TwentySeconds CV {twentyitemshort} table."
+       (orgtbl-to-generic
+        table
+        (org-combine-plists
+         '(:tstart "\\begin{twentyshort}" :tend "\\end{twentyshort}" :lstart "  \\twentyitemshort\n" :lend "" :fmt "    {%s}" :llfmt "" :sep "\n")
+         params)))
+#+END_SRC
+
+#+RESULTS: ticonv
+: orgtbl-to-twentyitemshort
+
+#+NAME: maketi
+#+BEGIN_SRC elisp :var tb=education-table :var params='(:skip 2) :results latex :exports results :prologue ticonv
+(orgtbl-to-twentyitem tb params)
+#+END_SRC
+
+#+RESULTS: maketi
+#+begin_export latex
+\begin{twenty}
+  \twentyitem
+    {since 1865}
+    {Ph.D. {\normalfont candidate in Computer Science}}
+    {Wonderland}
+    {\emph{A Quantified Theory of Social Cohesion}}
+  \twentyitem
+    {1863-1865}
+    {M.Sc. magna cum laude}
+    {Wonderland}
+    {Majoring in Computer Science}
+  \twentyitem
+    {1861-1863}
+    {B.Sc. magna cum laude}
+    {Wonderland}
+    {Majoring in Computer Science}
+  \twentyitem
+    {1861-1863}
+    {High school}
+    {Wonderland}
+    {Specializing in mathematics and physics.}
+\end{twenty}
+#+end_export
+
+#+NAME: mktishort
+#+BEGIN_SRC elisp :var tb=publications-table :results latex :exports results :prologue ticonv
+(orgtbl-to-twentyitemshort tb '(:skip 2))
+#+END_SRC
+
+#+RESULTS: mktishort
+#+begin_export latex
+\begin{twentyshort}
+  \twentyitemshort
+    {1865}
+    {Chapter One, Down the Rabbit Hole.}
+  \twentyitemshort
+    {1865}
+    {Chapter Two, The Pool of Tears.}
+  \twentyitemshort
+    {1865}
+    {Chapter Three,  The Caucus Race and a Long Tale.}
+  \twentyitemshort
+    {1865}
+    {Chapter Four,  The Rabbit Sends a Little Bill.}
+  \twentyitemshort
+    {1865}
+    {Chapter Five,  Advice from a Caterpillar.}
+\end{twentyshort}
+#+end_export
+*** skills/skillstext
+These use ~orgtbl-to-orgtbl~ to trim the top rows and the last row, so we're left with just the data we need to work with. The example file has all these skills comma separated on one line. But ~orgtbl-to-<othertable>~ explicitly enters a new line per table row, so I send these to separate functions for the latex processing.
+
+#+NAME: skillsconv
+#+BEGIN_SRC elisp :var tb=skills-table :results raw :exports results
+(orgtbl-to-orgtbl tb '(:skip 2 :llfmt ""))
+#+END_SRC
+
+#+RESULTS: skillsconv
+| pursuer of rabbits |    5 |
+| good manners       |    4 |
+| outgoing           |  4.3 |
+| polite             |    4 |
+| Java               | 0.01 |
+
+#+NAME: makeskillbar
+#+BEGIN_SRC elisp :var tbl=skillsconv :results latex
+(concat "\\skills{"
+        (mapconcat
+         (lambda (x)
+           (concat "{" (car x) "/" (cadr x) "}"))
+         (org-table-to-lisp tbl) ",")
+        "}")
+#+END_SRC
+
+#+RESULTS: makeskillbar
+#+begin_export latex
+\skills{{pursuer of rabbits/5},{good manners/4},{outgoing/4.3},{polite/4},{Java/0.01}}
+#+end_export
+
+#+NAME: skillstextconv
+#+BEGIN_SRC elisp :var tb=skillstext-table :results raw :exports results
+(orgtbl-to-orgtbl tb '(:skip 2 :llfmt ""))
+#+END_SRC
+
+#+RESULTS: skillstextconv
+| lovely       | 4 |
+| narcissistic | 3 |
+
+#+NAME: makeskillstext
+#+BEGIN_SRC elisp :var tbl=skillstextconv :results latex
+(concat "\\skillstext{"
+        (mapconcat
+         (lambda (x)
+           (concat "{" (car x) "/" (cadr x) "}"))
+         (org-table-to-lisp tbl) ",")
+        "}")
+#+END_SRC
+
+#+RESULTS: makeskillstext
+#+begin_export latex
+\skillstext{{lovely/4},{narcissistic/3}}
+#+end_export
+
+*** Contact/personal info
+Similar process as the skills and skilltext, but a little simpler since we do not have to trim the table first.
+
+#+NAME: latex-contact-info
+#+BEGIN_SRC elisp :var tbl=contact-table :results latex
+(mapconcat (lambda (x) (concat "\\" (car x) "{" (cadr x) "}")) tbl "\n")
+#+END_SRC
+
+#+RESULTS: latex-contact-info
+#+begin_export latex
+\profilepic{alice.jpeg}
+\cvname{Alice}
+\cvjobtitle{Adventurer}
+\cvdate{26 November 1865}
+\cvaddress{United Kingdom}
+\cvnumberphone{+39 0325658974}
+\cvmail{alice@wonderland.com}
+\cvsite{http://en.wikipedia.org}
+#+end_export
+** Third: Load data
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
+Compare with [[file:20200902004719-twentyseconds_cv_example_static.org][TwentySeconds CV Example (Static)]]
+We can use ~org-export-dispatch~ to interactively make a =.tex= buffer/file (for comparison with the original example), or we can produce a pdf directly after setup. In either case org inserts some extra metadata into the =latex= output, which may not be what we want. So we must enable the =Body only:= option in the dispatch menu (which should be ~Ctrl+b~ while in the menu). See the below section for some troubleshooting hints.
+
+Assuming a successful build, the following produces a pdf file non-interactively, so you can use it as a hook or in a script if you choose to extend this:
+#+BEGIN_SRC elisp
+(org-latex-export-to-pdf nil nil nil 'only-body nil)
+#+END_SRC
+** Troubleshooting and caveats
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
+There is (unfortunately) a lot that has to go right for a successful export:
++ Correctly using =:PROPERTIES:= so that the ~propview~ tables build properly.
++ Double checking that code blocks ran properly in the transformation step.
++ Not directly messing with the automatically constructed tables (except in the case of needing to rename it).
++ Ensuring the =\profilepic= is actually present in the stated location.
++ Ensuring this file and the =twentysecondcv.cls= file are in the same directory.
++ Having a proper =latex= builder.
++ A lack of bitrot :: The document skeleton is fragile. Were anything to change in the =twentysecondscv= codebase, this would not warn about it; it would simply build then fail, or fail to build.
+
+But with all those caveats out of the way, I have this configured for compatibility with the =twentysecondcv= template such that on the front-end someone can direct most of their focus to extracting or writing content, instead of how the latex itself works or weighing the cost of making small adjustments with introducing potential syntax errors or unintended side-effects.
+
+** Final thoughts
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
+Not configuring the code to run automatically might mean working with this file currently may be as tedious as simply editing the example latex file. This mostly was a learning experience for me: I am familiar enough with org to produce basic pdfs. But I had to look into the internals of =org-table=, =elisp= and =ox-latex= to figure out how to produce a =.pdf= file, specifically through =twentysecondcv.cls=, from an org file.
+
+My eventual intention here is showing off a resume pulled from a database, whose entries could change depending on rules set in database queries, which you would then funnel into org-mode and build on-the-fly. For example:
++ perhaps you've recorded a job's keywords within org, so you want to match skills and experience with its keywords.
++ you have a personal relationship manager integrated with org-mode, so when you form promising new professional connections, you'd like to tailor the resume you send them to their stated preferences.
+
+It is almost possible with the current file; what I lack at the moment is both:
++ a database
++ a database -> org-mode heading/table conversion strategy.
+
+** Interests
+Seeking opportunities to improve mental health, physical well-being, and the relationship with our environment using data and technology.
+** Other information
+** TODO Transfer
+*** TODO Relevant Coursework
+*** TODO Activities
+**** *Board Member, Services and Activities Fee Allocation Board (April 2017
+-- June 2017)*
+
+- Outreached and built collaborative relationships with student groups.
+
+- Analyzed relationships between student groups and the board to
+  optimize consistency.
+
+- Actively engaged with consensus-based decision making.
+**** Student Representative to the Board of Trustees
+:PROPERTIES:
+:DATE: September 2017 - June 2018
+:LOCATION: Services and Activities Fee Allocation Board
+:DESCRIPTION: The first Alice on film was over a hundred years ago.
+:END:
+**** *Deputy Speaker, Geoduck Student Union (September 2017 -- Present)*
+
+- Implemented policies that increased meeting productivity and
+  efficiency by several hours.
+
+- Managed a program supporting 12 students' participation in student
+  +college governance.
+
+- Developed an application stack to leverage relationships with student
+  groups, administration, and lawmakers.
+
+**** *Treasurer, Geoduck Student Union (September 2016 -- June 2017)*
+
+- Consulted stakeholders in writing a new set of bylaws, leading to
+  unanimous approval.
+
+- Convinced peers that diplomacy brings them closer to realizing goals
+  than arguments.
+
+- Balanced a $30,000 budget for 25 student employees; able to allocate
+  funds to professional development opportunities.
+
+*** TODO Relevant Projects
+**** Innovation Across the Americas
+* Content
+:PROPERTIES:
+:header-args:bash+: :wrap org :epilogue echo "file:$filename"
+:END:
+** Education
+#+begin_src latex :tangle ../resume/education.tex
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Education}
+
+
+%-------------------------------------------------------------------------------
+%	SUBSECTION TITLE
+%-------------------------------------------------------------------------------
+%\cvsubsection{The Evergreen State College}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvhonors}
+
+%---------------------------------------------------------
+  \cvhonor
+	{~B.S., Networked and Social Systems Engineering} % Award
+	{The Evergreen State College} % Event
+	{Olympia, WA} % Location
+	{2016 - 2020} % Date(s)
+
+%---------------------------------------------------------
+  \cvhonor
+	{~B.A., Liberal Arts} % Award
+	{The Evergreen State College} % Event
+	{Olympia, WA} % Location
+	{2016 - 2020} % Date(s)
+%---------------------------------------------------------
+%\end{cvhonors}
+
+%-------------------------------------------------------------------------------
+%	SUBSECTION TITLE
+%-------------------------------------------------------------------------------
+%\cvsubsection{Green River College}
+
+%\begin{cvhonors}
+%---------------------------------------------------------
+  \cvhonor
+    {~A.A.} % Award
+    {Green River College} % Event
+    {Auburn, WA} % Location
+    {2012 - 2014} % Date(s)
+
+%---------------------------------------------------------
+\end{cvhonors}
+#+end_src
+** Experience
+#+begin_src latex :tangle ../resume/experience.tex
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Experience}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {Tacoma Public Utilities- Power Management} % Job title
+    {Data Migration Specialist} % Organization
+    {Tacoma. Washington} % Location
+    {May 2021 - Present} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Subject matter expert on SharePoint Online features and integration in the Microsoft 365 cloud ecosystem.}
+        \item {Built sites to share internal news and test novel ways of sharing data across the organization.}
+        \item {Worked on optimizing data pipelines using Python, Seeq, and Snowflake.}
+      \end{cvitems}
+    }
+%---------------------------------------------------------
+  \cventry
+    {Glowcal}
+    {Marketing Director}
+    {Barrio del Alto, Puebla, Mexico} % Location
+    {Jun. 2019 - Jul. 2019} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {Founded Glowcal as an entrepreneurial collaboration with the Innovation Across the Americas 2019 cohort.}
+        \item {Developed strategies to evaluate re-use of plastic bottles as a low cost light source for residents and local businesses in El Alto.}
+        \item {Partnered with the Communications Director to create copy and generate buzz for our MVP (https://instagram.com/glowcals).}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {The Evergreen State College} % Job title
+    {Teaching Assistant} % Organization
+    {Olympia. Washington} % Location
+    {Apr. 2019 - Jun. 2019} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Assisted with introductory Python module within the Evergreen program "Modeling Biological Systems."}
+        \item {Graded python homework assignments; provided feedback to ~50 students. Produced reports on missed homework problems, FAQs.}
+        \item {Provided extended tutoring during labs and outside of class for interested students.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {The Evergreen State College Foundation} % Job title
+    {CRM Database Fellow} % Organization
+    {Olympia. Washington} % Location
+    {Sep. 2017 - Jun. 2019} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Shadowed Associate Director of Advancement Services, who led the implementation of Raiser's Edge for the Evergreen Foundation.}
+        \item {Managed and executed complex SQL queries for recurring report and dashboard construction.}
+        \item {Took on responsibility for major data management projects, including consultation with other departments.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Evergreen Board of Trustees} % Role
+    {Student Representative to the Board} % Title
+    {Olympia, Washington} % Location
+    {Sep. 2017 - Jun. 2019} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {Shared updates on student groups, the work of student government, and asked for engagement from the Board.}
+        \item {Brought together faculty, student, and administrative leadership to determine shared goals, governance, and views of systems thinking.}
+        \item {Actions resulted in the first joint meeting between the Board and the Student Union in the College's history.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Student Activities (Evergreen)} % Role
+    {Data Consultant} % Title
+    {Olympia, Washington} % Location
+    {Jan. 2018 - Sep. 2018} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {Consulted with Student Activities to improve their data management and governance.}
+        \item {Led requirements gathering sessions to determine how information flows from forms to database.}
+        \item {Made recommendations which led to new web form designs, normalizing data from hundreds of student leaders several times per quarter.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Evergreen Services and Activities Fee Allocation Board} % Job title
+    {Office Manager} % Organization
+    {Olympia. Washington} % Location
+    {Sep. 2017 - Sep. 2018} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Prepared budget request packets for the Board. This includes the budget in Excel, supplementary materials in Word.}
+        \item {Formed communication strategies, Board member development, and planned for larger budget reviews with Board leadership.}
+        \item {Reduced budget review workload from 10 hours/week to <1 by digitizing the budget submission process and adding data validation.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {The Evergreen State College} % Job title
+    {Web Application Engineering Intern} % Organization
+    {Olympia. Washington} % Location
+    {Jun. 2017 - Sep. 2017} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Worked with a development shop to rewrite a student elections application using PHP (Symfony, Drupal) and SQL (Oracle).}
+        \item {Learned database design and engineering, object relational mapping, test-driven development, UI/UX, and git.}
+        \item {Project followed Agile methodologies including SCRUM, weekly development meetings, sprint planning sessions and pair programming.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {United Way of Pierce County} % Role
+    {Lead Data Science Consultant} % Title
+    {Tacoma, Washington} % Location
+    {Apr. 2017 - Jun. 2017} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {Led a team collecting social data, building a semi-automated sentiment analysis algorithm within Python and R in collaboration with UWPC.}
+        \item {Used insights to help our client improve community outreach efforts and enhance collaborations with other organizations.}
+        \item {Initiative and detailed requirements gathering led to increased understanding of improving perceptions of financial insecurity.}
+      \end{cvitems}
+    }
+
+\end{cventries}
+#+end_src
+*** orgtbl-generic version
+See top for notes about working with lists, which have similar programming
+interfaces.
+*** recutils/table version
+#+HEADER: :data ../resume-data/experience-table.rec
+#+begin_src rec
+#+end_src
+
+#+RESULTS:
+| Start_Date     | End_Date       | Job_title                        | Location                                                    | Description                                                                                                            | Description_2                                                                                | Description_3                                                                                    | Description_4                    |
+|----------------+----------------+----------------------------------+-------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+----------------------------------|
+| September 2017 | June 2019      | "CRM Lynda.com Fellowship"       | "The Evergreen State College, Advancement"                  | "Shadowed the Assistant Director of Advancement Services."                                                             | "Learned how to use the Blackbaud Raiser's Edge Constituent Relationship Management System." | "Assisted with data management and building complex database query views through SQL and Excel." | "Served during campaign events." |
+| September 2017 | June 2018      | "Office Manager"                 | "Services and Activities Fee Allocation Board"              | "Reduced budget intake, processing from 5 hours/week to <1 hour by moving from paper budgets to Google Drive, Sheets." | "Trained 12 board members on the function and operations of the Board."                      |                                                                                                  |                                  |
+| "June 2017"    | September 2017 | "Enterprise Software Internship" | "The Evergreen State College, Computing and Communications" |                                                                                                                        |                                                                                              |                                                                                                  |                                  |
+
+#+header: :var filename="../resume/experience.tex"
+#+begin_src bash
+cat experience-table.rec | recfmt -f ../resume-templates/experience.templ > $filename
+#+end_src
+
+#+RESULTS:
+#+begin_org
+file:../resume/experience.tex
+#+end_org
+** Internships
+#+begin_src latex :tangle ../resume/internships.tex
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Experience}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {Tacoma Public Utilities- Power Management} % Job title
+    {Data Migration Specialist} % Organization
+    {Tacoma. Washington} % Location
+    {May 2021 - Present} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Subject matter expert on SharePoint Online features and integration in the Microsoft 365 cloud ecosystem.}
+        \item {Built sites to share internal news and test novel ways of sharing data across the organization.}
+        \item {Worked on optimizing data pipelines using Python, Seeq, and Snowflake.}
+      \end{cvitems}
+    }
+%---------------------------------------------------------
+  \cventry
+    {Glowcal}
+    {Marketing Director}
+    {Barrio del Alto, Puebla, Mexico} % Location
+    {Jun. 2019 - Jul. 2019} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {Founded Glowcal as an entrepreneurial collaboration with the Innovation Across the Americas 2019 cohort.}
+        \item {Developed strategies to evaluate re-use of plastic bottles as a low cost light source for residents and local businesses in El Alto.}
+        \item {Partnered with the Communications Director to create copy and generate buzz for our MVP (https://instagram.com/glowcals).}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {The Evergreen State College} % Job title
+    {Teaching Assistant} % Organization
+    {Olympia. Washington} % Location
+    {Apr. 2019 - Jun. 2019} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Assisted with introductory Python module within the Evergreen program "Modeling Biological Systems."}
+        \item {Graded python homework assignments; provided feedback to ~50 students. Produced reports on missed homework problems, FAQs.}
+        \item {Provided extended tutoring during labs and outside of class for interested students.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {The Evergreen State College Foundation} % Job title
+    {CRM Database Fellow} % Organization
+    {Olympia. Washington} % Location
+    {Sep. 2017 - Jun. 2019} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Shadowed Associate Director of Advancement Services, who led the implementation of Raiser's Edge for the Evergreen Foundation.}
+        \item {Managed and executed complex SQL queries for recurring report and dashboard construction.}
+        \item {Took on responsibility for major data management projects, including consultation with other departments.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Evergreen Board of Trustees} % Role
+    {Student Representative to the Board} % Title
+    {Olympia, Washington} % Location
+    {Sep. 2017 - Jun. 2019} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {Shared updates on student groups, the work of student government, and asked for engagement from the Board.}
+        \item {Brought together faculty, student, and administrative leadership to determine shared goals, governance, and views of systems thinking.}
+        \item {Actions resulted in the first joint meeting between the Board and the Student Union in the College's history.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Student Activities (Evergreen)} % Role
+    {Data Consultant} % Title
+    {Olympia, Washington} % Location
+    {Jan. 2018 - Sep. 2018} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {Consulted with Student Activities to improve their data management and governance.}
+        \item {Led requirements gathering sessions to determine how information flows from forms to database.}
+        \item {Made recommendations which led to new web form designs, normalizing data from hundreds of student leaders several times per quarter.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Evergreen Services and Activities Fee Allocation Board} % Job title
+    {Office Manager} % Organization
+    {Olympia. Washington} % Location
+    {Sep. 2017 - Sep. 2018} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Prepared budget request packets for the Board. This includes the budget in Excel, supplementary materials in Word.}
+        \item {Formed communication strategies, Board member development, and planned for larger budget reviews with Board leadership.}
+        \item {Reduced budget review workload from 10 hours/week to <1 by digitizing the budget submission process and adding data validation.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {The Evergreen State College} % Job title
+    {Web Application Engineering Intern} % Organization
+    {Olympia. Washington} % Location
+    {Jun. 2017 - Sep. 2017} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Worked with a development shop to rewrite a student elections application using PHP (Symfony, Drupal) and SQL (Oracle).}
+        \item {Learned database design and engineering, object relational mapping, test-driven development, UI/UX, and git.}
+        \item {Project followed Agile methodologies including SCRUM, weekly development meetings, sprint planning sessions and pair programming.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {United Way of Pierce County} % Role
+    {Lead Data Science Consultant} % Title
+    {Tacoma, Washington} % Location
+    {Apr. 2017 - Jun. 2017} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {Led a team collecting social data, building a semi-automated sentiment analysis algorithm within Python and R in collaboration with UWPC.}
+        \item {Used insights to help our client improve community outreach efforts and enhance collaborations with other organizations.}
+        \item {Initiative and detailed requirements gathering led to increased understanding of improving perceptions of financial insecurity.}
+      \end{cvitems}
+    }
+
+\end{cventries}
+#+end_src
+** Projects
+#+begin_src  latex :tangle ../resume/projects.tex
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Projects}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {Author (Proof of Concept: gitpod.io/\#https://github.com/branjam4/gitpod-test)} % Role
+    {Integrated “Personal Development” Environment} % Title
+    {Software Application} % Location
+    {Apr. 2018 - Present} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {My "go anywhere" development environment that doubles as a personal knowledge capture system.}
+        \item {Decreased cognitive switching by 50-100\% for tasks such as locating documentation, test-driven development, and keeping code notebooks.}
+        \item {}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+%  \cventry
+%    {Student Representative to the Board} % Affiliation/role
+%    {Evergreen Board of Trustees} % Organization/group
+%    {Olympia, WA} % Location
+%    {Sep. 2017 - Oct. 2018} % Date(s)
+%    {
+%      \begin{cvitems} % Description(s) of experience/contributions/knowledge
+%        \item {Served in an advisory position on the Board, appointed by peers in student government.}
+%        \item {Shared updates on student groups, the work of student government, and asked for engagement from the Board.}
+%        \item {Actions resulted in the first joint meeting between the Board and the Student Union in the College's history.}
+%      \end{cvitems}
+%    }
+%
+%---------------------------------------------------------
+  \cventry
+    {Systems Thinking Advocate} % Role
+    {Joint Leadership Group Establishment} % Title
+    {Evergreen} % Location
+    {Sep. 2017 - Jun. 2019} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {Brought together faculty, student, and administrative leadership to determine shared goals, governance, and views of systems thinking.}
+        \item {Reduced communications delay among student, faculty, and staff leadership from once or twice per year to once or twice per quarter.}
+        \item {Assisted in creation of a quarterly student caucus to identify and create opportunities for faculty and staff support.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+%  \cventry
+%    {Data Consultant} % Role
+%    {Student Activities Data Normalization} % Title
+%    {Evergreen} % Location
+%    {Jan. 2018 - Sep. 2018} % Date(s)
+%    {
+%      \begin{cvitems} % Description(s)
+%        \item {Consulted with Student Activities to improve their data management and governance.}
+%        \item {Led requirements gathering sessions to determine how information flows from forms to database.}
+%        \item {Made recommendations which led to new web form designs, normalizing data from hundreds of student leaders several times per quarter.}
+%      \end{cvitems}
+%    }
+%
+%---------------------------------------------------------
+%  \cventry
+%    {Data Consulting Lead} % Role
+%    {Financial Insecurity Perceptual Improvement} % Title
+%    {Western Washington} % Location
+%    {Apr. 2017 - Jun. 2017} % Date(s)
+%    {
+%      \begin{cvitems} % Description(s)
+%        \item {Led a team collecting social data, building a semi-automated sentiment analysis algorithm within Python and R in collaboration with a nonprofit.}
+%        \item {Used insights to help our client improve community outreach efforts and enhance collaborations with other organizations.}
+%        \item {Initiative and detailed requirements gathering led to increased understanding of the technical goals of the project.}
+%      \end{cvitems}
+%    }
+%
+%---------------------------------------------------------
+\end{cventries}
+
+#+end_src
+** Courses (skills)
+#+begin_src latex :tangle ../resume/courses.tex
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Courses and Skills}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {Business 101, Business Law, Human Relations, Interpersonal Communication, Economics, Neuropsychology} % Role
+    {Green River Coursework} % Event
+    {Business Fundamentals} % Location
+    {2012-2014} % Date(s)
+    {Engaged in team-building exercises and presentations emphasizing active listening, game theory, and ethical business management.}
+
+%---------------------------------------------------------
+  \cventry
+    {Classics, Philosophy, Sociolinguistics, Cultural Anthropology, Academic Editing, Technology and Society} % Role
+    {Language and Power} % Event
+    {Critical Thinking} % Location
+    {Spring 2016} % Date(s)
+    {Solidified critical approaches to analyzing people and ideas in a variety of fields.}
+
+%---------------------------------------------------------
+  \cventry
+    {Digital Logic, Computer Architecture, Java, JVM Assembly, Discrete Math, Data Structures} % Role
+    {Computer Science Foundations} % Event
+    {Computer Engineering} % Location
+    {2016-2017} % Date(s)
+    {Learned fundamentals of problem solving and building up to complex systems using logic and object-oriented programming.}
+
+%---------------------------------------------------------
+  \cventry
+    {Statistics, Python, R, Data Mining, Consumer Behavior, Ethical Data Management, Systems Thinking} % Role
+    {Computing Practice and Theory: Consumer Behavior} % Event
+    {Data Science Foundations} % Location
+    {Spring 2017} % Date(s)
+    {Learned how to collect, clean, and explore data for machine learning workflows. Evaluated positive/negative impact of Big Data in seminar.}
+
+%---------------------------------------------------------
+  \cventry
+    {Linguistic Analysis, Natural Language Processing, NLTK (Python), Artificial Intelligence} % Role
+    {Data and Information: Computational Linguistics} % Event
+    {Natural Language Processing} % Location
+    {Fall 2018} % Date(s)
+    {Strengthened use of synthesis and linguistic analysis within the context of programming and studying the recent impacts of artificial intelligence.}
+
+%---------------------------------------------------------
+  \cventry
+    {Computer Networking, Social Network Analysis, Systems Theory, Graph Data Structures/Algorithms/Databases} % Role
+    {Student-Originated Software} % Event
+    {Interdisciplinary Network Science} % Location
+    {2018-2020} % Date(s)
+    {Demonstrated ethics of computational kindness (reducing the cognitive load on ourselves/others) through efficient decision-making algorithms. Identified key campus partnerships between faculty, staff, and students through interviews and use of causal loop diagrams f-0or my capstone.}
+
+%---------------------------------------------------------
+\end{cventries}
+#+end_src
+** Extracurricular
+#+begin_src  latex :tangle ../resume/extracurricular.tex
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Extracurricular Activity}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    { % Affiliation/role
+    \begin{cvitems}
+        \item {Speaker}
+        \item {Deputy Speaker}
+        \item {Treasurer}
+      \end{cvitems}
+      }
+    {Geoduck Student Union} % Organization/group
+    {Olympia, WA} % Location
+    {Sep. 2016 - Oct. 2018} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of experience/contributions/knowledge
+        \item {Improving both internal and external communication was top priority in keeping GSU accountable to its vision and mission.}
+        \item {Increased accessibility, streamlined agenda setting through integrating Slack and digital archiving with operations.}
+         \item {Efforts created a multiplier effect: representatives found more ways to expand the capacity of the organization with their own projects.}
+         \item {External stakeholders recognized GSU as an active ally with respect to their own strategic initiatives during my tenure.}
+      \end{cvitems}
+    }
+  \cventry
+    {Student Representative to the Board} % Affiliation/role
+    {Evergreen Board of Trustees} % Organization/group
+    {Olympia, WA} % Location
+    {Sep. 2017 - Oct. 2018} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of experience/contributions/knowledge
+        \item {Served in an advisory position on the Board, appointed by peers in student government.}
+        \item {Shared updates on student groups, the work of student government, and asked for engagement from the Board.}
+        \item {Actions resulted in the first joint meeting between the Board and the Student Union in the College's history.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Presidential Equity Advisor} % Affiliation/role
+    {The Evergreen State College} % Organization/group
+    {Olympia, WA} % Location
+    {Jun. 2017 - Sep. 2017} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of experience/contributions/knowledge
+        \item {Improved policies and language within the Student Code of Conduct to favor restorative justice over punitive justice.}
+        \item {Collaborated with students, faculty, and staff to finalize plans for an Equity Center on campus.}
+        \item {Presented recommendations on improving campus culture and climate through systems thinking.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+\end{cventries}
+
+#+end_src
